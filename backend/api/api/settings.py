@@ -28,7 +28,7 @@ DEBUG = True
 
 #ALLOWED_HOSTS = []
 #CORS때문에 변경
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['.ap-northeast-2.compute.amazonaws.com']
 
 
 # Application definition
