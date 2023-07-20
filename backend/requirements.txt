@@ -1,0 +1,10 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth
+django-allauth
+django-cors-headers
+pandas
+scikit-learn
+transformers
+torch
