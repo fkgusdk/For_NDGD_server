@@ -1,0 +1,78 @@
+{
+    "swiper" : [
+        {
+            "id" : 1,
+            "img" : "images/banner1.png",
+            "alt" : "산업재해",
+            "link" : "/"
+        },
+        {
+            "id" : 2,
+            "img" : "images/banner2.png",
+            "alt" : "신청절차",
+            "link" : "/procedure"
+        },
+        {
+            "id" : 3,
+            "img" : "images/banner3.png",
+            "alt" : "커뮤니티",
+            "link" : "/community"
+        },
+        {
+            "id" : 4,
+            "img" : "images/banner4.png",
+            "alt" : "산재보험이란",
+            "link" : "/"
+        },
+        {
+            "id" : 5,
+            "img" : "images/banner5.png",
+            "alt" : "NDGD후기",
+            "link" : "/review"
+        }
+    ],
+    "mainBtn" : [
+        {
+            "id" : 1,
+            "img" : "images/process.png",
+            "alt" : "process",
+            "link" : "/procedure",
+            "txt" : "산재보상절차/신청"
+        },
+        {
+            "id" : 2,
+            "img" : "images/calculator.png",
+            "alt" : "calculator",
+            "link" : "/calc",
+            "txt" : "4대 보험금 모의계산"
+        },
+        {
+            "id" : 3,
+            "img" : "images/percentage.png",
+            "alt" : "calculator",
+            "link" : "/percent",
+            "txt" : "보험금 승인 확률"
+        },
+        {
+            "id" : 4,
+            "img" : "images/best.png",
+            "alt" : "training",
+            "link" : "/training",
+            "txt" : "직업훈련 우수 기관"
+        },
+        {
+            "id" : 5,
+            "img" : "images/medical.png",
+            "alt" : "medical",
+            "link" : "/medical",
+            "txt" : "산재 지정 의료 기관"
+        },
+        {
+            "id" : 6,
+            "img" : "images/job.png",
+            "alt" : "job",
+            "link" : "/rehabilitation",
+            "txt" : "직업 재활 기관 현황"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    font-family: 'Pretendard-Thin';
+}
+
+a { 
+  text-decoration: none;
+  color: black;
+}
+
+button {
+  border: none;
+  font-family: 'Pretendard-Thin';
+  cursor: pointer;
+  background: none;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard-Thin';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
